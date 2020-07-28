@@ -1,0 +1,26 @@
+{
+  "name": "cTracker",
+  "displayName": "cTracker",
+  "expo": {
+    "name": "cTracker",
+    "slug": "cTracker",
+    "version": "1.0.0",
+    "ios": {
+      "bundleIdentifier": "com.etech.ctracker",
+      "buildNumber": "1.0.0",
+      "config": {
+        "googleMapsApiKey": "AIzaSyDUb7HM5F_BNVk8TA9djmt2FWZK4VfHLVU"
+      }
+    },
+    "android": {
+      "package": "com.etech.ctracker",
+      "versionCode": 1,
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyCsl4VsC9xqPkalRj1aJIvWjkUZK9rgy2w"
+        }
+      }
+    },
+    "assetBundlePatterns": ["**/*"]
+  }
+}
